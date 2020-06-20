@@ -3,9 +3,10 @@
 
 2. python for Data science.
 Course: https://www.linkedin.com/learning/python-data-analysis-2 (complete all chapters)
-Book: https://jakevdp.github.io/PythonDataScienceHandbook/ (only till 4th chapter. skip 5th chapter) (free)
-https://www.oreilly.com/library/view/python-data-science/9781491912126/ (paid)
-3. [Sample code using numpy, pandas and matplotlib](sample.ipynb)
+
+3. Book: [Python Datascience Handbook](https://amzn.to/3ekOIRR)
+3. [Sample code using numpy](numpy-sample.ipynb)
+3. [Covid 19 data analysis using pandas and matplotlib](covid.ipynb)
 4. Optional miniproject 
 Example: https://github.com/krishansubudhi/indiaexpenditure
 5. Kaggle example
