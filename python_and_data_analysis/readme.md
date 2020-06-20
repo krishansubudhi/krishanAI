@@ -7,7 +7,3 @@ Course: https://www.linkedin.com/learning/python-data-analysis-2 (complete all c
 3. Book: [Python Datascience Handbook](https://amzn.to/3ekOIRR)
 3. [Sample code using numpy](numpy-sample.ipynb)
 3. [Covid 19 data analysis using pandas and matplotlib](covid.ipynb)
-4. Optional miniproject 
-Example: https://github.com/krishansubudhi/indiaexpenditure
-5. Kaggle example
-https://www.kaggle.com/roshansharma/online-shopper-s-intention
